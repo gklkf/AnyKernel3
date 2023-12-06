@@ -30,4 +30,4 @@ no_magisk_check=1;
 split_boot;
 mv $home/rd-new.cpio $home/ramdisk-new.cpio;
 flash_boot;
-flash_boot; ## end boot install
+## end boot install
